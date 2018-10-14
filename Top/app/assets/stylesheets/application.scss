@@ -20,6 +20,15 @@ body , html {
   footer {
     background-color: #000000;
     color: #ffffff;
-    height: 360px;
+    height: 480px;
+    font-size: 1.5em;
+
+    .font-small {
+      font-size: 0.6em;
+    }
+
+    .silver{
+      color: #C0C0C0;
+    }
   }
 }
