@@ -13,8 +13,10 @@
  */
 @import url(bootstrap/dist/css/bootstrap.min);
 
-body , html {
+body,
+html {
   height: 100%;
+
   .jumbotron {
     height: 480px;
     background-image: url("images.jpeg");
@@ -23,8 +25,8 @@ body , html {
   }
 
   footer {
-    background-color: #000000;
-    color: #ffffff;
+    background-color: #000;
+    color: #fff;
     height: 480px;
     font-size: 1.5em;
 
@@ -32,8 +34,8 @@ body , html {
       font-size: 0.6em;
     }
 
-    .silver{
-      color: #C0C0C0;
+    .silver {
+      color: #c0c0c0;
     }
   }
 }

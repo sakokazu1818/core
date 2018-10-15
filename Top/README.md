@@ -22,3 +22,15 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+```
+$ be rake eslint:run_all
+```
+
+```
+$ rubocop -a
+```
+
+```
+$ be haml-lint .
+```
