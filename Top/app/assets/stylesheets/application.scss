@@ -47,8 +47,16 @@ html {
   footer {
     background-color: #000;
     color: #fff;
-    height: 480px;
+    height: 640px;
     font-size: 1.5em;
+
+    .contact-left {
+      background-color: #990000;
+    }
+
+    .contact-right {
+      background-color: #CC0000;
+    }
 
     .font-small {
       font-size: 0.6em;
