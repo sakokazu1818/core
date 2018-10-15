@@ -4,7 +4,3 @@
 //= require action_cable
 //= require_self
 //= require_tree ./channels
-
-$(function() {
-  console.log(888);
-});
